@@ -4,7 +4,7 @@ Administrative script to perform some tasks using google API. I created this scr
 2. Move the suspended user to a Terminated OU.
 3. Remove the user from all the groups it was part of.
 
-#Usage
+# Usage
 To use this script, following steps are required to complete. 
 
 1. you need download your seceret client file and rename it to client_secrets.json
